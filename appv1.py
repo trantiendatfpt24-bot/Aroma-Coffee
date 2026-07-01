@@ -8,7 +8,7 @@ st.title("☕ Cà phê Trợ Lý Ảo Quán")
 st.caption("Chào mừng bạn đến với quán trực tuyến!")
 
 # --- 2. CẤU HÌNH API KEY CỦA BẠN ---
-GEMINI_API_KEY = "AIzaSyCv3QIZUJbvdbbZ6e_tz_U_-Jpgfe86pw0"
+GEMINI_API_KEY = "AQ.Ab8RN6IdVz4bMgqs0BFcfRFJqaZCqHSnw3XUMI4IOfTCniZljA"
 
 # Khởi tạo kết nối với Google AI ổn định
 if "client" not in st.session_state:
